@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/http//:oqilx0n.github.io/dashboardkit/static/css/main.d8fb930c.css",
-    "main.js": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.62ff3280.js",
+    "main.js": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.ba26ea93.js",
     "static/media/a_2. subscription.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/a_2. subscription.ea7035ab0002e81864755c94a398b422.svg",
     "static/media/a_1. settings.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/a_1. settings.fdcc507b3b6bc4331cf0c448d8cb3ca5.svg",
     "static/media/4. contacts.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/4. contacts.f850daac368b7c986d12bec07ba8b829.svg",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/logo.c781ed74e45adffd8296c8d4a407796b.svg",
     "static/media/search.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/search.66587537944d38406c4e59b9f95469ee.svg",
     "main.d8fb930c.css.map": "/http//:oqilx0n.github.io/dashboardkit/static/css/main.d8fb930c.css.map",
-    "main.62ff3280.js.map": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.62ff3280.js.map"
+    "main.ba26ea93.js.map": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.ba26ea93.js.map"
   },
   "entrypoints": [
     "static/css/main.d8fb930c.css",
-    "static/js/main.62ff3280.js"
+    "static/js/main.ba26ea93.js"
   ]
 }
