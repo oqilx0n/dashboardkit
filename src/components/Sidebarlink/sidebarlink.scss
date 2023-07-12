@@ -1,0 +1,20 @@
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+    padding: 18px 50px 18px 30px;
+
+    h4{
+        color: var(--accent-light, #DDE2FF);
+        font-family: Mulish;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 0.2px;
+        margin: 0px;
+    }
+    &.active{
+        background-color:#9FA2B4;
+    }
+}
