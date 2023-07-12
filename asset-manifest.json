@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//:oqilx0n.github.io/dashboardkit/static/css/main.d8fb930c.css",
+    "main.js": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.62ff3280.js",
+    "static/media/a_2. subscription.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/a_2. subscription.ea7035ab0002e81864755c94a398b422.svg",
+    "static/media/a_1. settings.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/a_1. settings.fdcc507b3b6bc4331cf0c448d8cb3ca5.svg",
+    "static/media/4. contacts.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/4. contacts.f850daac368b7c986d12bec07ba8b829.svg",
+    "index.html": "/http//:oqilx0n.github.io/dashboardkit/index.html",
+    "static/media/1. overview.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/1. overview.c62a7acc3c112116c477f3d5fc135df9.svg",
+    "static/media/6. articles.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/6. articles.d708dc415f1b90c1a6bbef66d024a8a4.svg",
+    "static/media/2. tickets.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/2. tickets.50478e9876db0094d1d26ebce7286480.svg",
+    "static/media/new.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/new.163ecb6dd69a722b09d0d65407f00434.svg",
+    "static/media/logo.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/logo.c781ed74e45adffd8296c8d4a407796b.svg",
+    "static/media/search.svg": "/http//:oqilx0n.github.io/dashboardkit/static/media/search.66587537944d38406c4e59b9f95469ee.svg",
+    "main.d8fb930c.css.map": "/http//:oqilx0n.github.io/dashboardkit/static/css/main.d8fb930c.css.map",
+    "main.62ff3280.js.map": "/http//:oqilx0n.github.io/dashboardkit/static/js/main.62ff3280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8fb930c.css",
+    "static/js/main.62ff3280.js"
+  ]
+}
